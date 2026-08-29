@@ -13,5 +13,6 @@ If you like my projects, feel free to leave some feedback! ⭐
 ### Projects
 
 * **NameHider** — A Minecraft mod I'm currently working on.
+* **3DSkinViewer** - A Minecraft mod I'm currently working on.
 
 Thanks for checking out my profile! :)
