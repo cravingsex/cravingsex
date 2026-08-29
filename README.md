@@ -1,4 +1,4 @@
-# 👋 Hey, I'm wc64
+# 👋 Hey, I'm wc64 or CravingSex
 
 I'm a hobby scripter who started scripting in **2025** just for fun. Recently, I've started learning **Minecraft modding**.
 
