@@ -7,6 +7,7 @@ If you like my projects, feel free to leave some feedback! ⭐
 ### About Me
 
 * **Country:** Estonia
+* **Age** 20. 
 * **Languages:** English, German
 * **Fluent in:** German
 
