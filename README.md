@@ -1,19 +1,25 @@
 # 👋 Hey, I'm wc64 or CravingSex
 
-I'm a hobby scripter who started scripting in **2025** just for fun. Recently, I've started learning **Minecraft modding**.
+I'm a hobby scripter who started scripting in **2025** just for fun. Recently, I've also started learning **Minecraft modding**.
 
-If you like my projects, feel free to leave some feedback! ⭐
+If you enjoyed my projects, feel free to leave some feedback! ⭐
 
 ### About Me
 
 * **Country:** Estonia
-* **Age** 20. 
+* **Age:** 20
 * **Languages:** English, German
 * **Fluent in:** German
 
 ### Projects
 
-* **NameHider** — A Minecraft mod I'm currently working on.
-* **3DSkinViewer** - A Minecraft mod I'm currently working on.
+**All of my projects have been archived, and I'm officially quitting development.**
 
-Thanks for checking out my profile! :)
+I'm no longer working on any of my projects, including:
+
+* **NameHider** — Archived
+* **3DSkinViewer** — Archived
+
+Thank you to everyone who supported my work, used my projects, or left feedback along the way. I appreciate it! ❤️
+
+**This is the end of my journey as a developer.**
